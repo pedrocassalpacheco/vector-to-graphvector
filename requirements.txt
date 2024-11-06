@@ -1,0 +1,12 @@
+python-dotenv
+langchain-community
+langchain-astradb
+langchain-openai
+ragstack-ai-knowledge-store
+unstructured[pdf]
+networkx
+widgetsnbextension 
+ipywidgets 
+pyvis 
+prettyprint 
+cassio
