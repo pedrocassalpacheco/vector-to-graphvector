@@ -1,0 +1,5 @@
+OPENAI_API_KEY="<your key"
+ASTRA_DB_API_ENDPOINT= "<your endpoint"
+ASTRA_DB_DATABASE_ID = "<your db id>"
+ASTRA_DB_APPLICATION_TOKEN = "<your astra token"
+ASTRA_DB_KEYSPACE = "<your namespace"
